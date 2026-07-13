@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
@@ -55,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
