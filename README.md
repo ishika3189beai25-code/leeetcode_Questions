@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
