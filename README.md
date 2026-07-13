@@ -18,13 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
