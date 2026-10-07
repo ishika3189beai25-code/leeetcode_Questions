@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/2351-first-letter-to-appear-twice) |
