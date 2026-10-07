@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0344-reverse-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0704-binary-search) |
 ## Dynamic Programming
