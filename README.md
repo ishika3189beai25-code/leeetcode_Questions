@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
