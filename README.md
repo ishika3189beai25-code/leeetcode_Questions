@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
