@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0394-decode-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
