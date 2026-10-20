@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
