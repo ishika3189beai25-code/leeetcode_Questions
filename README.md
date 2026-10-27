@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0389-find-the-difference) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ishika3189beai25-code/leeetcode_Questions/tree/master/0264-ugly-number-ii) |
 ## Quickselect
 |  |
 | ------- |
